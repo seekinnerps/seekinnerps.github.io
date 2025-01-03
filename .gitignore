@@ -5,9 +5,5 @@ _site/
 Gemfile.lock
 vendor/
 
-# macOS specific files
-.DS_Store_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# macOS
+.DS_Store
