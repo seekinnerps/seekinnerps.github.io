@@ -1,0 +1,13 @@
+# Jekyll default ignores
+_site/
+.jekyll-cache/
+*.gem
+Gemfile.lock
+vendor/
+
+# macOS specific files
+.DS_Store_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
