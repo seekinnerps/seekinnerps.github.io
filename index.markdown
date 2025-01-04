@@ -11,3 +11,5 @@ Welcome to my personal space! This is where I revisit important topics like **C+
 
 Feel free to explore the site and check out some of the coding challenges and interview tips I’ll be posting. You can also follow my progress through the blog section.
 
+## Pages:
+- [About Me](/about/)
