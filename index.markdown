@@ -3,9 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 ---
-layout: home
-title: "{{ site.title }}"
-description: "{{ site.description }}"
 
 
 # Welcome to My Blog
