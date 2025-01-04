@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: review cpp and data structures
+title: reviewing cpp and dsa
 email: wenliyalyu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal resource dedicated to reviewing C++ and mastering data structures, built to help
