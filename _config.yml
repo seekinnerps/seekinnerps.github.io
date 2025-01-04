@@ -18,16 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: review cpp and data structures
+email: wenliyalyu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A personal resource dedicated to reviewing C++ and mastering data structures, built to help
+  strengthen problem-solving skills and prepare for technical interviews. This site serves as
+  a structured guide for revisiting key concepts, practicing coding challenges, and refining
+  understanding of essential algorithms, with a focus on acing job interviews and landing your
+  next software engineering role.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  seekinnerps
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
