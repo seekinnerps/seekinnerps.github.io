@@ -27,8 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   understanding of essential algorithms, with a focus on acing job interviews and landing your
   next software engineering role.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "https://seekinnerps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  seekinnerps
 
 # Build settings
