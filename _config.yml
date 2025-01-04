@@ -37,6 +37,8 @@ nav:
     url: /
   - title: About Me
     url: /about/
+  - title: C++ Syntax Review
+    url: /cpp-syntax/
   - title: Blog
     url: /blog/
 
