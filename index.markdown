@@ -13,3 +13,4 @@ Feel free to explore the site and check out some of the coding challenges and in
 
 ## Pages:
 - [About Me](/about/)
+- [C++ Syntax Review](/cpp-syntax/)
