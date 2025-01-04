@@ -32,6 +32,7 @@ github_username:  seekinnerps
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
+source: "." 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
